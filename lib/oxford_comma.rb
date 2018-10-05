@@ -9,6 +9,7 @@ for x in 0...(array.length-1)
 newAr.push(array[x])
 end
 newAr.join(", ")
-return newAr + ", and " + array[-1]
+
 end
+newAr + ", and " + array[-1]
 end
