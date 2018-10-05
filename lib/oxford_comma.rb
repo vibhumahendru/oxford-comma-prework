@@ -9,6 +9,6 @@ array.pop
 array.push("and")
 array.join(", ")
 array.push(newAr)
-array.join
+array.join(", ")
 end
 end
