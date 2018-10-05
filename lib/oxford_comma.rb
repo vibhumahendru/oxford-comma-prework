@@ -8,5 +8,6 @@ newAr = array[-1]
 array.pop
 array.push("and")
 array.join(", ")
+array.push(newAr)
 end
 end
