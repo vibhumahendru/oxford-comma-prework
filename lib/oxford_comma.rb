@@ -11,3 +11,4 @@ end
 newAr.join(", ")
 newAr + " and " + array[-1]
 end
+end
