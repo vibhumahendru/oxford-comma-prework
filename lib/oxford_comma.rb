@@ -1,6 +1,6 @@
 def oxford_comma(array)
 if array.length == 1 
-  x =  array.join
+  x =  array.to_s()
 end
 puts x
 end
