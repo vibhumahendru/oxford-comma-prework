@@ -7,6 +7,6 @@ elsif array.length >=3
 newAr = array[-1]
 array.pop
 array.push("and")
-
+array.join(", ")
 end
 end
