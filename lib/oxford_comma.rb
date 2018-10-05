@@ -5,6 +5,9 @@ elsif array.length == 2
 array.join(" and ")
 elsif array.length >=3
 newAr = array[-1]
-
+array.pop
+array.push("and")
+array.push(newAr)
+array.join(", ")
 end
 end
